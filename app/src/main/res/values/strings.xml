@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="score">Score</string>
+
+    <string name="question_1">When can we meet again?</string>
+    <string name="answer1_1">When are you free?</string>
+    <string name="answer1_2">It was two days ago.</string>
+    <string name="answer1_3">Can you help me?</string>
+
+    <string name="question_2">My aunt is going to stay with me.</string>
+    <string name="answer2_1">How do you do?</string>
+    <string name="answer2_2">How long for?</string>
+    <string name="answer2_3">How was it?</string>
+
+    <string name="question_3">When do you study?</string>
+    <string name="answer3_1">at school</string>
+    <string name="answer3_2">in the evenings</string>
+    <string name="answer3_3">in the library</string>
+
+    <string name="question_4">Would you prefer lemonade or orange juice?</string>
+    <string name="answer4_1">Have you got anything else?</string>
+    <string name="answer4_2">I prefer lemonade</string>
+    <string name="answer4_3">Are you sure about that?</string>
+
+
+</resources>

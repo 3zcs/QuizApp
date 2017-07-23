@@ -11,6 +11,7 @@ public class Question {
     private List<String> answers;
     private List<Integer> trueAnswer;
     private boolean isMultipleChoice;
+    private boolean dataEntry;
 
     public boolean isMultipleChoice() {
         return isMultipleChoice;
@@ -44,5 +45,11 @@ public class Question {
         this.trueAnswer = trueAnswer;
     }
 
+    public boolean isDataEntry() {
+        return dataEntry;
+    }
 
+    public void setDataEntry(boolean dataEntry) {
+        this.dataEntry = dataEntry;
+    }
 }

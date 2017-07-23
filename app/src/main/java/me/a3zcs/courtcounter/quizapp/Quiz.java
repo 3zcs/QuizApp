@@ -41,13 +41,11 @@ public class Quiz {
 
         Question q3 = new Question();
         q3.setQuestion(context.getString(R.string.question_3));
-        List<String> answerQ3 = Arrays.asList(
-                context.getString(R.string.answer3_1),
-                context.getString(R.string.answer3_2),
-                context.getString(R.string.answer3_3));
+        List<String> answerQ3 = Arrays.asList(context.getString(R.string.answer3_1));
         q3.setAnswers(answerQ3);
-        q3.setTrueAnswer(Arrays.asList(2));
+        q3.setTrueAnswer(Arrays.asList(0));
         q3.setMultipleChoice(false);
+        q3.setDataEntry(true);
 
 
         Question q4 = new Question();

@@ -14,15 +14,15 @@
     <string name="answer2_2">How long for?</string>
     <string name="answer2_3">How was it?</string>
 
-    <string name="question_3">When do you study?</string>
-    <string name="answer3_1">at school</string>
-    <string name="answer3_2">in the evenings</string>
-    <string name="answer3_3">in the library</string>
+    <string name="question_3">King of KSA</string>
+    <string name="answer3_1">Salman</string>
 
     <string name="question_4">Would you prefer lemonade or orange juice?</string>
     <string name="answer4_1">Have you got anything else?</string>
     <string name="answer4_2">I prefer lemonade</string>
     <string name="answer4_3">Are you sure about that?</string>
+    <string name="answer">Answer</string>
+    <string name="grade">Your grade is</string>
 
 
 </resources>
